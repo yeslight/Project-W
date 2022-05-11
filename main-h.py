@@ -386,9 +386,9 @@ def funcCAPTCHA():
 audioFile = '/audio.mp3'
 imgFile = '/capture.png'
 ##
-urlWrite = urlDecode('aGF4LmNvLmlk')
-urlLogin = urlDecode('aHR0cHM6Ly9oYXguY28uaWQvbG9naW4=')
-urlRenew = urlDecode('aHR0cHM6Ly9oYXguY28uaWQvdnBzLXJlbmV3')
+urlWrite = urlDecode('V29pZGVuLmlk')
+urlLogin = urlDecode('aHR0cHM6Ly93b2lkZW4uaWQvbG9naW4=')
+urlRenew = urlDecode('aHR0cHM6Ly93b2lkZW4uaWQvdnBzLXJlbmV3')
 ##
 urlSpeech = urlDecode('aHR0cHM6Ly9zcGVlY2gtdG8tdGV4dC1kZW1vLm5nLmJsdWVtaXgubmV0')
 urlMJJ = urlDecode('aHR0cDovL21qanpwLmNm')
