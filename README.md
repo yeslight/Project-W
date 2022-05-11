@@ -1,4 +1,4 @@
-[![H-Extend](https://github.com/yeslight/Project-W/actions/workflows/main-h.yml/badge.svg)](https://github.com/yeslight/Project-W/actions/workflows/main-h.yml)
+[![H-Extend](https://github.com/yeslight/Project-W/actions/workflows/main.yml/badge.svg)](https://github.com/yeslight/Project-W/actions/workflows/main.yml)
 #### ✏️
 - [ ] 优化结果判断
 
