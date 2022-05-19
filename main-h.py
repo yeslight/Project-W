@@ -64,11 +64,10 @@ def speechToText():
     delay(2)
     driver.switch_to.window(driver.window_handles[1])
     set_driver(driver)
-    # 向下滚动
-    # scroll_down(num_pixels=800)
     text = ''
     i = 0
-    while text == '':
+    #while text == '':
+    while ' ' not in text:
         i = i + 1
         if i > 3:
             print('*** speechToText issue! ***')
